@@ -154,3 +154,61 @@ Web2: web-EPA http://networkrepository.com/web-EPA.php
 Web3: web-indochina-2004 http://networkrepository.com/web-indochina-2004.php  
 Web4: web-polblogs http://networkrepository.com/web-polblogs.php  
 Web5: web-spam http://networkrepository.com/web-spam.php  
+
+
+# The weighted datasets
+Biology Networks:  
+Biology1: BIO-CE-HT http://networkrepository.com/bio-CE-HT.php  
+Biology2: BIO-CE-PG http://networkrepository.com/bio-CE-PG.php  
+Biology3: BIO-DM-CX http://networkrepository.com/bio-DM-CX.php  
+Biology4: BIO-DR-CX http://networkrepository.com/bio-DR-CX.php  
+Biology5: BIO-HS-CX http://networkrepository.com/bio-HS-CX.php  
+Biology6: BIO-HS-LC http://networkrepository.com/bio-HS-LC.php  
+Biology7: BIO-SC-CC http://networkrepository.com/bio-SC-CC.php  
+Biology8: BIO-SC-GT http://networkrepository.com/bio-SC-GT.php  
+Biology9: BIO-SC-HT http://networkrepository.com/bio-SC-HT.php  
+Biology10: BIO-SC-LC http://networkrepository.com/bio-SC-LC.php  
+Collaboration Network:  
+Collaboration1: CA-SANDI-AUTHS http://networkrepository.com/ca-sandi-auths.php  
+Ecology Networks:    
+Ecology1: ECO-EVERGLADES http://networkrepository.com/eco-everglades.php  
+Ecology2: ECO-FLORIDA http://networkrepository.com/eco-florida.php  
+Ecology3: ECO-FOODWEB-BAYDRY http://networkrepository.com/eco-foodweb-baydry.php  
+Ecology4: ECO-FOODWEB-BAYWET http://networkrepository.com/eco-foodweb-baywet.php  
+Ecology5: ECO-MANGWET http://networkrepository.com/eco-mangwet.php  
+Ecology6: ECO-STMARKS http://networkrepository.com/eco-stmarks.php  
+Economy Networks:  
+Economy1: ECON-BEAFLW http://networkrepository.com/econ-beaflw.php  
+Economy2: ECON-BEAUSE http://networkrepository.com/econ-beause.php  
+Economy3: ECON-MBEACXC http://networkrepository.com/econ-mbeacxc.php  
+Economy4: ECON-MBEAFLW http://networkrepository.com/econ-mbeaflw.php  
+Economy5: ECON-MBEAUSE http://networkrepository.com/econ-mbeause.php  
+Economy6: ECON-PSMIGR1 http://networkrepository.com/econ-psmigr1.php  
+Economy7: ECON-PSMIGR2 http://networkrepository.com/econ-psmigr2.php  
+Economy8: ECON-PSMIGR3 http://networkrepository.com/econ-psmigr3.php  
+Facebook Networks:  
+Facenbook1: Weighted static one-mode network (weighted by number of characters) http://opsahl.co.uk/tnet/datasets/OClinks_w_chars.txt  
+Facenbook2: Weighted static one-mode network (weighted by number of messages) http://opsahl.co.uk/tnet/datasets/OClinks_w.txt  
+Facenbook3: Weighted longitudinal two-mode network  (weighted by number of characters) http://opsahl.co.uk/tnet/datasets/OF_longitudinal_weightedchar.txt  
+Facenbook4: Weighted static two-mode network (weighted by number of messages) http://opsahl.co.uk/tnet/datasets/OF_two-mode_weightedmsg.txt   
+Facenbook5: Weighted static two-mode network (weighted by number of characters) http://opsahl.co.uk/tnet/datasets/OF_two-mode_weightedchar.txt   
+Facenbook6: Weighted static one-mode network (weighted by number of messages; sum) http://opsahl.co.uk/tnet/datasets/OF_one-mode_weightedmsg_sum.txt  
+Facenbook7: Weighted static one-mode network (weighted by number of characters; sum) http://opsahl.co.uk/tnet/datasets/OF_one-mode_weightedchar_sum.txt  
+Facenbook8: Weighted static one-mode network (weighted by number of messages; Newman’s method) http://opsahl.co.uk/tnet/datasets/OF_one-mode_weightedmsg_Newman.txt  
+Facenbook9: Weighted static one-mode network (weighted by number of characters; Newman’s method) http://opsahl.co.uk/tnet/datasets/OF_one-mode_weightedchar_Newman.txt  
+Retweet Networks:  
+Retweet1: RT-BARACKOBAMA http://networkrepository.com/rt-barackobama.php  
+Retweet2: RT-GMANEWS http://networkrepository.com/rt-gmanews.php  
+Retweet3: RT-HTTP http://networkrepository.com/rt-http.php  
+Retweet4: RT-JUSTINBIEBER http://networkrepository.com/rt-justinbieber.php  
+Retweet5: RT-KSA http://networkrepository.com/rt-ksa.php  
+Retweet6: RT-LOLGOP http://networkrepository.com/rt-lolgop.php  
+Retweet7: RT-MITTROMNEY http://networkrepository.com/rt-mittromney.php  
+Retweet8: RT-ONEDIRECTION http://networkrepository.com/rt-onedirection.php  
+Retweet9: RT-QATIF http://networkrepository.com/rt-qatif.php  
+Retweet10: RT-SAUDI http://networkrepository.com/rt-saudi.php  
+Power Networks:  
+Power1: POWER-494-BUS http://networkrepository.com/power-494-bus.php  
+Power2: POWER-662-BUS http://networkrepository.com/power-662-bus.php  
+Power3: POWER-685-BUS http://networkrepository.com/power-685-bus.php  
+Power4: POWER-1138-BUS http://networkrepository.com/power-1138-bus.php  
