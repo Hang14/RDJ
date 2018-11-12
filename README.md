@@ -212,6 +212,6 @@ Power3: POWER-685-BUS http://networkrepository.com/power-685-bus.php
 Power4: POWER-1138-BUS http://networkrepository.com/power-1138-bus.php  
 
 # References
-[1]R. A. Rossi and N. K. Ahmed 'The network data repos-itory with interactive graph analytics and visualization,' in Proceedings of the Twenty-Ninth AAAI Conference onArtificial Intelligence, 2015.
-[2]Opsahl, T., Panzarasa, P., 2009. Clustering in weighted networks. Social Networks 31 (2), 155-163, doi: 10.1016/j.socnet.2009.02.002
-[3]Opsahl, T. 2013. Triadic closure in two-mode networks: Redefining the global and local clustering coefficients. Social Networks 35 (2), 159-167, doi: 10.1016/j.socnet.2011.07.001.
+[1]R. A. Rossi and N. K. Ahmed 'The network data repos-itory with interactive graph analytics and visualization,' in Proceedings of the Twenty-Ninth AAAI Conference onArtificial Intelligence, 2015.  
+[2]Opsahl, T., Panzarasa, P., 2009. Clustering in weighted networks. Social Networks 31 (2), 155-163, doi: 10.1016/j.socnet.2009.02.002  
+[3]Opsahl, T. 2013. Triadic closure in two-mode networks: Redefining the global and local clustering coefficients. Social Networks 35 (2), 159-167, doi: 10.1016/j.socnet.2011.07.001.  
