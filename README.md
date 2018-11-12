@@ -2,7 +2,7 @@
 
 The real datasets for the paper:
 
-Hayoung Choi, Jinglian He, Hang Hu, and Yuanming Shi. Efficient Computing von Neumann Entropy for Large-scale Graphs
+Hayoung Choi, Jinglian He, Hang Hu, and Yuanming Shi. Fast Computing von Neumann Entropy for Large-scale Graphs via Quadratic Approximations
 
 All the datasets bellow are from the "R. A. Rossi and N. K. Ahmed 'The network data repos-itory with interactive graph analytics and visualization,' in Proceedings of the Twenty-Ninth AAAI Conference onArtificial Intelligence, 2015."  
 
